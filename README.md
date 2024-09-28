@@ -28,17 +28,11 @@ The dataset used in this project is a CSV file (`amazon.csv`) containing informa
 ### 1. **Top-selling Categories:**
    We observed that the majority of sales occur in categories such as **television** and **smartphones**. These categories show the highest total discounted price.
 
-   ![Sales by Category](path_to_image.png)  *(Add appropriate image if available)*
-
 ### 2. **Top-rated Products:**
    Analysis of customer reviews shows that **Amazon Basics Ethernet cables** receive the most reviews, highlighting their cost-effectiveness and quality. This indicates a potential area for increased focus on manufacturing more such products.
 
-   ![Top-rated Products](path_to_image.png) *(Add appropriate image if available)*
-
 ### 3. **Correlation Analysis:**
    We used a heatmap to visualize the correlation between various factors such as discount percentage, actual price, discounted price, and rating count.
-
-   ![Correlation Heatmap](path_to_image.png) *(Add appropriate image if available)*
 
 ## Tools & Libraries Used
 
