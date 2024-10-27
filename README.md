@@ -1,4 +1,5 @@
 # Amazon Sales Data Analysis
+![Amazon_Logo](amazon.jpg)
 
 This repository contains a data analysis project using Python, focused on exploring and understanding sales data from Amazon. The project involves cleaning the dataset, performing exploratory data analysis (EDA), and visualizing key trends and insights using popular data manipulation and visualization libraries such as `pandas`, `numpy`, `matplotlib`, and `seaborn`.
 
